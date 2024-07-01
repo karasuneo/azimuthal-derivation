@@ -1,4 +1,4 @@
-"Time (s)","Acceleration x (m/s^2)","Acceleration y (m/s^2)","Acceleration z (m/s^2)"
+"Time (s)","Acceleration x (m/s^2)","Acceleration y (m/s^2)","Acceleration z (m/s^2)","gyro_x","gyro_y","gyro_z"
 2.987659700E-2,5.018347263E0,1.563709617E0,8.591429710E0
 3.833225000E-2,4.827519894E0,1.427916884E0,8.455039024E0
 4.833225000E-2,4.598406792E0,1.343569875E0,8.323433876E0
